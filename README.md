@@ -1,3 +1,3 @@
 # Covid-19-web
  
-![AUR license](https://img.shields.io/aur/license/android-studio)
+![GitHub](https://img.shields.io/github/license/Souvikns/Covid-19-web)
